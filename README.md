@@ -1,9 +1,10 @@
 # Binary-Tree
-In this program random binary tree for a given number of the nodes is generated and then the amortized complexity is calculated. 
-
 In this program, we want to experimentally validate the method by developing a program in C++ environment. The 
-random binary tree for a given number of the nodes is generated as mentioned in the following. Let’s assume 
-each node as a root of a sub-tree that has left (LS) and right (RS) sub-trees. As a result, 
+random binary tree for a given number of the nodes is generated as mentioned in the following, and then the amortized complexity is calculated. 
+
+# Description
+
+Let’s assume each node as a root of a sub-tree that has left (LS) and right (RS) sub-trees. As a result, 
 ```
 𝐾𝑒𝑦 𝑣𝑎𝑙𝑢𝑒 𝑜𝑓 𝑒𝑎𝑐ℎ 𝑛𝑜𝑑𝑒 = 𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑡ℎ𝑒 𝑛𝑜𝑑𝑒𝑠 𝑖𝑛 𝐿𝑆 + 𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑡ℎ𝑒 𝑛𝑜𝑑𝑒𝑠 𝑖𝑛 𝑅𝑆 + 1 
 ```
