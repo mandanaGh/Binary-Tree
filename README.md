@@ -2,7 +2,7 @@
 In this program, we want to experimentally validate the method by developing a program in C++ environment. The 
 random binary tree for a given number of the nodes is generated as mentioned in the following, and then the amortized complexity is calculated. 
 
-# Description
+### Description
 
 Let’s assume each node as a root of a sub-tree that has left (LS) and right (RS) sub-trees. As a result, 
 ```
